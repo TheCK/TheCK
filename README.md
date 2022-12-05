@@ -8,7 +8,7 @@ I'm a fullstack software developer from Germany.
 
 ---
 
-### Stuff I use (for persoonal use and professionally) 🧰
+### Stuff I tinker with (for personal use and professionally) 🧰
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
